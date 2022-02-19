@@ -105,19 +105,3 @@ function AddressPage() {
 
 export default AddressPage;
 
-
-/**
-            <label for="co"></label>C/O<input type="text" id="co" name="co"/>  
-            <label for="house">house</label><input type="text" id="house" name="house"/>  
-            <label for="street">street</label><input type="text" id="street" name="street"/>  
-            <label for="lm">Landmark</label><input type="text" id="lm" name="lm"/>  
-            <label for="loc">Locality</label><input type="text" id="loc" name="loc"/>  
-            <label for="vtc">vtc</label><input type="text" id="vtc" name="vtc"/>  
-            <label for="subdist">subdist</label><input type="text" id="subdist" name="subdist"/>  
-            <label for="dist">dist</label><input type="text" id="dist" name="dist"/>  
-            <label for="state">state</label><input type="text" id="state" name="state"/>  
-            <label for="country">country</label><input type="text" id="country" name="country"/>  
-            <label for="pc">pc</label><input type="text" id="pc" name="pc"/>  
-            <label for="po">po</label><input type="text" id="po" name="po"/>  
-            
-*/
